@@ -37,6 +37,10 @@
 	font-weight: 200;
 }
 
+.target-link {
+	padding-top: 80px;
+}
+
 .medium-space {
-	height: 150px;
+	height: 80px;
 }
