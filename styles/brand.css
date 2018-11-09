@@ -6,6 +6,10 @@
 	/* available in 200, 200i, 400, 400i, 900, 900i; */
 }
 
+body {
+	background-color: #e8ecf5;
+}
+
 p {
 	max-width: 750px;
 }
